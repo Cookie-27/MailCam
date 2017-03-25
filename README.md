@@ -1,1 +1,505 @@
-# MailCam
+<!-- FlatFy Theme - Andrea Galanti /-->
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="Flatfy Free Flat and Responsive HTML5 Template ">
+    <meta name="author" content="">
+
+    <title>MailCam - Integrate the old with the new.</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Google Web Font -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom CSS-->
+    <link href="css/general.css" rel="stylesheet">
+
+	 <!-- Owl-Carousel -->
+    <link href="css/custom.css" rel="stylesheet">
+	<link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+	<link href="css/animate.css" rel="stylesheet">
+
+	<!-- Magnific Popup core CSS file -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<script src="js/modernizr-2.8.3.min.js"></script>  <!-- Modernizr /-->
+	<!--[if IE 9]>
+		<script src="js/PIE_IE9.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="js/PIE_IE678.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+	<![endif]-->
+
+</head>
+
+<body id="home">
+
+	<!-- Preloader -->
+	<div id="preloader">
+		<div id="status"></div>
+	</div>
+
+	<!-- FullScreen -->
+    <div class="intro-header">
+		<div class="col-xs-12 text-center abcen1">
+			<h1 class="h1_home wow fadeIn" data-wow-delay="0.4s">MailCam</h1>
+			<h3 class="h3_home wow fadeIn" data-wow-delay="0.6s">Integrate the old with the new.</h3>
+			<ul class="list-inline intro-social-buttons">
+				<li id="download" ><a href="#downloadlink" class="btn  btn-lg mybutton_standard wow swing wow fadeIn" data-wow-delay="1.2s"><span class="network-name">BUY NOW</span></a>
+				</li>
+			</ul>
+		</div>
+        <!-- /.container -->
+		<div class="col-xs-12 text-center abcen wow fadeIn">
+			<div class="button_down ">
+				<a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#whatis"> <img class="img_scroll" src="img/icon/circle.png" alt=""> </a>
+			</div>
+		</div>
+    </div>
+
+	<!-- NavBar-->
+	<nav class="navbar-default" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#home">MailCam 📬📷</a>
+			</div>
+
+			<div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">
+				<ul class="nav navbar-nav">
+
+					<li class="menuItem"><a href="#whatis">What is it?</a></li>
+					<li class="menuItem"><a href="#meetthemaker">Meet the Maker</a></li>
+					<li class="menuItem"><a href="#buynow">Buy Now</a></li>
+          <li class="menuItem"><a href="#contact">Contact Me</a></li>
+				</ul>
+			</div>
+
+		</div>
+	</nav>
+
+	<!-- What is -->
+	<div id="whatis" class="content-section-b" style="border-top: 0">
+		<div class="container">
+
+			<div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<h2>What is it?</h2>
+
+			</div>
+
+			<div class="row">
+
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img class="rotate" src="img/icon/inspiration_icon.png" alt="Generic placeholder image">
+				  <h3>What is MailCam?</h3>
+				  <p class="lead">MailCam is a small device that will change the way you use snail mail.</p>
+
+				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/wire_image.png" alt="Generic placeholder image">
+				   <h3>Inner Workings</h3>
+				   <p class="lead">It has a light sensor and a camera to sense when you have mail, and send a picture of the mail to you.</p>
+				   <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/buying_icon.png" alt="Generic placeholder image">
+				   <h3>Why would you want it?</h3>
+					<p class="lead">In this technologically advanced world, everything is connected. However, mail isn't. Let's fix that.</p>
+				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+
+			</div><!-- /.row -->
+
+			<!-- div class="row tworow">
+				<div class="col-sm-4  wow fadeInDown text-center">
+				  <img class="rotate" src="img/icon/laptop.svg" alt="Generic placeholder image">
+				  <h3>Responsive</h3>
+				  <p class="lead">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. </p>
+				 < <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p>>
+				</div>< /.col-lg-4 >
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/map.svg" alt="Generic placeholder image">
+				   <h3>Google</h3>
+				   <p class="lead">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. </p>
+				   < <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> >
+				</div>< /.col-lg-4 >
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/browser.svg" alt="Generic placeholder image">
+				   <h3>Bootstrap</h3>
+				 <p class="lead">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. </p>
+				  < <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> >
+				</div>< /.col-lg-4>
+			</div --><!-- /.row -->
+		</div>
+	</div>
+
+	<!-- Use it -->
+    <!-- div id ="useit" class="content-section-a">
+        <div class="container">
+            <div class="row">
+				<div class="col-sm-6 pull-right wow fadeInRightBig">
+                    <img class="img-responsive " src="img/ipad.png" alt="">
+                </div>
+                <div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">
+                    <h3 class="section-heading">Full Responsive</h3>
+					<div class="sub-title lead3">Lorem ipsum dolor sit atmet sit dolor greand fdanrh<br> sdfs sit atmet sit dolor greand fdanrh sdfs</div>
+                    <p class="lead">
+						In his igitur partibus duabus nihil erat, quod Zeno commuta rest gestiret.
+						Sed virtutem ipsam inchoavit, nihil ampliusuma. Scien tiam pollicentur,
+						uam non erat mirum sapientiae lorem cupido
+						patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
+					</p>
+					 <p><a class="btn btn-embossed btn-primary" href="#" role="button">View Details</a>
+					 <a class="btn btn-embossed btn-info" href="#" role="button">Visit Website</a></p>
+				</div>
+            </div>
+        </div>
+        <! /.container >
+    </div -->
+
+    <!-- div class="content-section-b">
+		< div class="container">
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeftBig">
+                     <div id="owl-demo-1" class="owl-carousel">
+						<a href="img/iphone.png" class="image-link">
+							<div class="item">
+								<img  class="img-responsive img-rounded" src="img/iphone.png" alt="">
+							</div>
+						</a>
+						<a href="img/iphone.png" class="image-link">
+							<div class="item">
+								<img  class="img-responsive img-rounded" src="img/iphone.png" alt="">
+							</div>
+						</a>
+						<a href="img/iphone.png" class="image-link">
+							<div class="item">
+								<img  class="img-responsive img-rounded" src="img/iphone.png" alt="">
+							</div>
+						</a>
+					</div>
+                </div>
+                <div class="col-sm-6 wow fadeInRightBig"  data-animation-delay="200">
+                    <h3 class="section-heading">Drag Gallery</h3>
+					<div class="sub-title lead3">Lorem ipsum dolor sit atmet sit dolor greand fdanrh<br> sdfs sit atmet sit dolor greand fdanrh sdfs</div>
+                    <p class="lead">
+						In his igitur partibus duabus nihil erat, quod Zeno commuta rest gestiret.
+						Sed virtutem ipsam inchoavit, nihil ampliusuma. Scien tiam pollicentur,
+						uam non erat mirum sapientiae lorem cupido
+						patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
+					</p>
+					 <p><a class="btn btn-embossed btn-primary" href="#" role="button">View Details</a>
+					 <a class="btn btn-embossed btn-info" href="#" role="button">Visit Website</a></p>
+				</div>
+			</div>
+        </div>
+    </div -->
+
+    <!-- div class="content-section-a">
+        <div class="container">
+             <div class="row">
+				<div class="col-sm-6 pull-right wow fadeInRightBig">
+                    <img class="img-responsive " src="img/doge.png" alt="">
+                </div>
+                <div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">
+                    <h3 class="section-heading">Font Awesome & Glyphicon</h3>
+                    <p class="lead">A special thanks to Death to the Stock Photo for
+					providing the photographs that you see in this template.
+					</p>
+					<ul class="descp lead2">
+						<li><i class="glyphicon glyphicon-signal"></i> Reliable and Secure Platform</li>
+						<li><i class="glyphicon glyphicon-refresh"></i> Everything is perfectly orgainized for future</li>
+						<li><i class="glyphicon glyphicon-headphones"></i> Attach large file easily</li>
+					</ul>
+				</div>
+            </div>
+        </div>
+    <div -->
+
+<!-- Screenshot -->
+	<!-- div id="screen" class="content-section-b">
+        <div class="container">
+          <div class="row" >
+			 <div class="col-md-6 col-md-offset-3 text-center wrap_title ">
+				<h2>Pictures</h2>
+			 </div>
+		  </div>
+		    <div class="row wow bounceInUp" >
+              <div id="owl-demo" class="owl-carousel">
+				<a href="img/slide/1.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/1.png" alt="Owl Image">
+					</div>
+				</a>
+               <a href="img/slide/2.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/2.png" alt="Owl Image">
+					</div>
+				</a>
+				<a href="img/slide/3.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/3.png" alt="Owl Image">
+					</div>
+				</a>
+				<a href="img/slide/1.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/1.png" alt="Owl Image">
+					</div>
+				</a>
+               <a href="img/slide/2.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/2.png" alt="Owl Image">
+					</div>
+				</a>
+				<a href="img/slide/3.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/3.png" alt="Owl Image">
+					</div>
+				</a>
+              </div>
+          </div>
+        </div>
+	</div -->
+
+	<!--div class="content-section-c ">
+		<div class="container">
+			<div class="row">
+			<div class="col-md-6 col-md-offset-3 text-center white">
+				<h2>Follow the making of the product</h2>
+      </div>
+			<div class="col-md-6 col-md-offset-3 text-center">
+				<div class="mockup-content">
+						<div class="morph-button wow pulse morph-button-inflow morph-button-inflow-1">
+							<button type="button" href="https://"><span></span></button>
+							<div class="morph-content">
+								<div>
+									<div class="content-style-form content-style-form-4 ">
+										<h2 class="morph-clone">Subscribe to our Newsletter</h2>
+										<form>
+											<p><label>Your Email Address</label><input type="text"/></p>
+											<p><button>Subscribe me</button></p>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div -->
+
+	<!-- Credits -->
+	<div id="meetthemaker" class="content-section-a">
+		<div class="container">
+			<div class="row">
+
+			<div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<h2>Meet the Maker</h2>
+			 </div>
+
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate">
+							<i class="fa fa-desktop fa-4x "> </i>
+						</div>
+						<div class="col-md-8 box-ct">
+							<h3> Kaushik Varadharajan </h3>
+							<p> Kaushik is a 7th grader who hopes to change the way people do things, including checking mail.</p>
+						</div>
+				  </div>
+			  </div>
+			  <!--div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate">
+						<i class="fa fa-picture-o fa-4x "> </i>
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<h3> Bootstrap </h3>
+						<p> The people who made the template for this website.</p>
+					  </div>
+					</div>
+			  </div -->
+		  </div>
+
+		  <!-- div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate">
+							<i class="fa fa-magic fa-4x "> </i>
+						</div>
+						<div class="col-md-8 box-ct">
+							<h3>  </h3>
+							<p> Lorem ipsum dolor sit ametconsectetur adipiscing elit. Suspendisse orci quam. </p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate">
+						<i class="fa fa-heart fa-4x "> </i>
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<h3> Lorem Ipsum</h3>
+						<p> Nullam mo  arcu ac molestie scelerisqu vulputate, molestie ligula gravida, tempus ipsum.</p>
+					  </div>
+					</div>
+			  </div>
+		  </div -->
+		</div>
+	</div>
+
+	<!-- Banner Download -->
+	<div id="buynow" class="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<p><a class="btn btn-embossed btn-primary view col-md-12" role="button" href="https://www.ebay.com" target="new">Buy now</a></p>
+			 </div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Contact -->
+	<!-- div id="contact" class="content-section-a">
+		<div class="container">
+			<div class="row">
+			<div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<h2>Contact Us</h2>
+			</div>
+			<form role="form" action="" method="post" >
+				<div class="col-md-6">
+					<div class="form-group">
+						<label for="InputName">Your Name</label>
+						<div class="input-group">
+							<input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
+							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="InputEmail">Your Email</label>
+						<div class="input-group">
+							<input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Enter Email" required  >
+							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="InputMessage">Message</label>
+						<div class="input-group">
+							<textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
+						</div>
+					</div>
+					<input type="submit" name="submit" id="submit" value="Submit" class="btn wow tada btn-embossed btn-primary pull-right">
+				</div>
+			</form>
+			<hr class="featurette-divider hidden-lg">
+				<div class="col-md-5 col-md-push-1 address">
+					<address>
+					<h3>Office Location</h3>
+					<p class="lead"><a href="https://www.google.com/maps/preview?ie=UTF-8&q=The+Pentagon&fb=1&gl=us&hq=1400+Defense+Pentagon+Washington,+DC+20301-1400&cid=12647181945379443503&ei=qmYfU4H8LoL2oATa0IHIBg&ved=0CKwBEPwSMAo&safe=on">The Pentagon<br>
+					Washington, DC 20301</a><br>
+					Phone: XXX-XXX-XXXX<br>
+					Fax: XXX-XXX-YYYY</p>
+					</address>
+					<h3>Social</h3>
+					<li class="social">
+					<a href="#"><i class="fa fa-facebook-square fa-size"> </i></a>
+					<a href="#"><i class="fa  fa-twitter-square fa-size"> </i> </a>
+					<a href="#"><i class="fa fa-google-plus-square fa-size"> </i></a>
+					<a href="#"><i class="fa fa-flickr fa-size"> </i> </a>
+					</li>
+				</div>
+			</div>
+		</div>
+	</div -->
+
+
+
+    <footer>
+      <div class="container" id="contact">
+        <div class="row">
+          <div class="col-md-7">
+            <h3 class="footer-title">Contact Me!</h3>
+            <p> I don't have many social media accounts, but I do use an <a href="https://www.instagram.com/kaushik.r.varadharajan" target="new">Instagram</a> and a <a href="http://twitter.com/cookie628318" target="new">Twitter</a> just in case.</p>
+
+          </div> <!-- /col-xs-7 -->
+
+          <div class="col-md-5">
+            <div class="footer-banner">
+              <h3 class="footer-title">Flatfy Theme</h3>
+              <ul>
+                <li>12 Column Grid Bootstrap</li>
+                <li>Form Contact</li>
+                <li>Drag Gallery</li>
+                <li>Full Responsive</li>
+                <li>Lorem Ipsum</li>
+              </ul>
+              Go to: <a href="http://andreagalanti.it/flatfy" target="_blank">andreagalanti.it/flatfy</a> <br/>
+              <!-- LICENSE -->
+              <a rel="cc:attributionURL" href="http://www.andreagalanti.it/flatfy"
+               property="dc:title">Flatfy Theme </a> by
+               <a rel="dc:creator" href="http://www.andreagalanti.it"
+               property="cc:attributionName">Andrea Galanti</a>
+               is licensed to the public under
+               the <a rel="license"
+               href="http://creativecommons.org/licenses/by-nc/3.0/it/deed.it">Creative
+               Commons Attribution 3.0 License - NOT COMMERCIAL</a>.
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+	<script src="js/owl.carousel.js"></script>
+	<script src="js/script.js"></script>
+	<!-- StikyMenu -->
+	<script src="js/stickUp.min.js"></script>
+	<script type="text/javascript">
+	  jQuery(function($) {
+		$(document).ready( function() {
+		  $('.navbar-default').stickUp();
+		});
+	  });
+	</script>
+	<!-- Smoothscroll -->
+	<script type="text/javascript" src="js/jquery.corner.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script>
+	 new WOW().init();
+	</script>
+	<script src="js/classie.js"></script>
+	<script src="js/uiMorphingButton_inflow.js"></script>
+	<!-- Magnific Popup core JS file -->
+	<script src="js/jquery.magnific-popup.js"></script>
+</body>
+
+</html>
